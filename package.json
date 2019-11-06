@@ -1,0 +1,33 @@
+{
+  "name": "usedoubleclick",
+  "version": "1.0.0",
+  "description": "provides a function that can act different when used twice in an interval",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jochnickel/npm-useDoubleClick.git"
+  },
+  "keywords": [
+    "useDoubleClick",
+    "doubleclick",
+    "clicker",
+    "doubleclicker",
+    "clickevent",
+    "click",
+    "event"
+  ],
+  "author": "Joachim Janke <joachim.remdi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jochnickel/npm-useDoubleClick/issues"
+  },
+  "homepage": "https://github.com/Jochnickel/npm-useDoubleClick#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
